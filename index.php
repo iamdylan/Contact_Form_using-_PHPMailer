@@ -61,7 +61,7 @@
 
 				<?php if ($msg != "") echo "$msg<br><br>"; ?>
 
-				<form method="post" action="contactform.php" enctype="multipart/form-data">
+				<form method="post" action="index.php" enctype="multipart/form-data">
 					<input class="form-control" name="subject" placeholder="Subject..."><br>
 					<input class="form-control" type="email" name="email" placeholder="Email..."><br>
 					<textarea placeholder="Message..." class="form-control" name="message"></textarea><br>

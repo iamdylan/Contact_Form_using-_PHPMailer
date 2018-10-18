@@ -1,0 +1,40 @@
+body{
+	background-color: #4db4ffd1 !important;
+}
+
+img{
+	margin: 10px auto;
+	width: 8%;
+	height: 8%;
+}
+
+.col-md-6-offset-3{
+	width: 60%;
+}
+
+textarea.form-control {
+    height: 40%;
+}
+
+div.alert{
+	text-align: left;
+}
+
+.card{
+	height: 95%;
+}
+
+hr.style-one {
+border: 0;
+height: 1px;
+background: #333;
+background-image: -webkit-linear-gradient(left, #ccc, #333, #ccc);
+background-image: -moz-linear-gradient(left, #ccc, #333, #ccc);
+background-image: -ms-linear-gradient(left, #ccc, #333, #ccc);
+background-image: -o-linear-gradient(left, #ccc, #333, #ccc);
+}
+
+.conform{
+	color: white;
+	text-align: center !important;
+}

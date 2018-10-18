@@ -4,12 +4,13 @@ body{
 
 img{
 	margin: 10px auto;
-	width: 8%;
-	height: 8%;
+	width: 10%;
+	height: 10%;
 }
 
 .col-md-6-offset-3{
 	width: 60%;
+
 }
 
 textarea.form-control {
@@ -37,4 +38,8 @@ background-image: -o-linear-gradient(left, #ccc, #333, #ccc);
 .conform{
 	color: white;
 	text-align: center !important;
+}
+
+.container{
+	margin-top: 15px;
 }

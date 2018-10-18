@@ -62,13 +62,10 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/styles.css">
 </head>
 <body>
-	<div class="container" style="margin-top: 100px">
+	<div class="container" >
 		<h1 class="conform">CONTACT FORM<hr class="style-one"></h1>
 		<div class="row justify-content-center">		
-
-
 			<div class="col-md-6-offset-3" align="center" data-aos="zoom-in">
-
 				<div class='card card-body  bg-light mt-2 mb-5'>
 				<img src="assets/images/email2.svg"><br><br>
 

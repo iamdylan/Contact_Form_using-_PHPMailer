@@ -21,7 +21,7 @@ Try it out:
 
 <br>
 
-Screenshot
+#### SCREENSHOT:
 
 <p align="center"><img src="./images/shadow-form.png" alt="Contact form screenshot" width="80%"></p>
 

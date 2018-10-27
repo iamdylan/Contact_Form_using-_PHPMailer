@@ -33,7 +33,7 @@ Tools used:
 + PHPMailer
 + Git
 + Sublime
-+ mder
++ Cmder
 + Xampp
 + Heroku
 

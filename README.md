@@ -16,8 +16,9 @@ I created this contact form as the basis to learn about the PHPMailer library an
 
 It has been deployed on Heroku so that you can take it for a spin by clicking on the "Demo" link below. I used Cmdr in combination with heroku's CLI to push the project on a remote heroku branch and it will remain accessible, as long as I do not run out of my monthly dynos (which is plenty).
 
-Try it out: 
-##[DEMO](https://contact-form-using-phpmailer.herokuapp.com/)##
+######Try it out######
+
+[DEMO](https://contact-form-using-phpmailer.herokuapp.com/)
 
 <p align="center"><img src="./images/shadow-form.png" alt="Contact form screenshot" width="80%"></p>
 

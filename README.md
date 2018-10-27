@@ -3,11 +3,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![HTML](https://img.shields.io/badge/html-5.0-green.svg?longCache=true&style=plastic)
 ![CSS](https://img.shields.io/badge/CSS-3.0-green.svg?longCache=true&style=plastic)
-![Bootswatch](https://img.shields.io/badge/bootswatch-bootstrap_4.1.3-green.svg?longCache=true&style=plastic)
-![AOS](https://img.shields.io/badge/AOS-2.3.1-green.svg?longCache=true&style=plastic)
 ![PHP](https://img.shields.io/badge/PHP-7.1.11-blue.svg?longCache=true&style=plastic)
+![Bootswatch](https://img.shields.io/badge/bootswatch-bootstrap_4.1.3-orange.svg?longCache=true&style=plastic)
+![AOS](https://img.shields.io/badge/AOS-2.3.1-orange.svg?longCache=true&style=plastic)
 ![PHPMailer](https://img.shields.io/badge/PHPMailer-6.0.5-red.svg?longCache=true&style=plastic)
-![Heroku](https://img.shields.io/badge/deployment-heroku-red.svg?longCache=true&style=plastic)
+![Heroku](https://img.shields.io/badge/heroku-deployment-ff69b4.svg?longCache=true&style=plastic)
 
 ---
 

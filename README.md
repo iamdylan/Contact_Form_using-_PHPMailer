@@ -24,15 +24,15 @@ I created this contact form as the basis to learn about the PHPMailer library an
 <p align="center"><img src="./images/form.png" alt="Contact form screenshot" width="60%"></p>
 
 Tools used:
-+HTML
-+CSS
-+Php
-+Bootstrap
-+PHPMailer
-+Git
-+Sublime
-+Cmder
-+Xampp
-+Heroku
++ HTML
++ CSS
++ Php
++ Bootstrap
++ PHPMailer
++ Git
++ Sublime
++ Cmder
++ Xampp
++ Heroku
 
 **Note:** An empty composer was intentionally left in, because heroku has trouble detecting and categorising the app as PHP.

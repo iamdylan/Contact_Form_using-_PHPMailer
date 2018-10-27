@@ -31,6 +31,7 @@ Tools used:
 + CSS
 + Php
 + Bootstrap
++ AOS
 + PHPMailer
 + Git
 + Sublime

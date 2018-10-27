@@ -18,12 +18,7 @@ It has been deployed on Heroku so that you can take it for a spin by clicking on
 
 <p>Try it out: <h2><a href="https://contact-form-using-phpmailer.herokuapp.com/" target="_blank">DEMO</a></h2></p>
 
-<br>
-<br>
-<br>
-<br>
-
-<p align="center"><img src="./images/shadow-form.png" alt="Contact form screenshot" width="60%"></p>
+<p align="center"><img src="./images/shadow-form.png" alt="Contact form screenshot" width="80%"></p>
 
 Tools used:
 + HTML

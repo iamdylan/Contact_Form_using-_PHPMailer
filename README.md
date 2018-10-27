@@ -12,12 +12,16 @@
 
 <img src="./images/logo.png" align="right" title="PHPMailer" width="150" height="150">
 
-I created this contact form as the basis to learn about the PHPMailer library and how mail is sent through the SMTP standard protocol in contrast to the php mail().
+I created this contact form as the basis to learn about the PHPMailer library and how mail is sent through the SMTP standard protocol in contrast to the php mail(). It's a responsive page that verifies if or not all entries are entered correctly(except the optional attachment) before submission.
 
 It has been deployed on Heroku so that you can take it for a spin by clicking on the "Demo" link below. I used Cmdr in combination with heroku's CLI to push the project on a remote heroku branch and it will remain accessible, as long as I do not run out of my monthly dynos (which is plenty).
 
 Try it out: 
 ## [DEMO](https://contact-form-using-phpmailer.herokuapp.com/)
+
+<br>
+
+Screenshot
 
 <p align="center"><img src="./images/shadow-form.png" alt="Contact form screenshot" width="80%"></p>
 

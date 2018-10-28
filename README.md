@@ -38,6 +38,7 @@ Tools used:
 + Cmder
 + Xampp
 + Heroku
++ Photoshop (for the images above).
 
 Please let me know of any suggestions or corrections you would like me to be aware of.
 
